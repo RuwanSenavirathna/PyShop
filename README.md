@@ -1,7 +1,7 @@
-# PyShop
+# PyShop | Building a web site with Django
 
-Building a web site with Django.
-This is a simple eCommerce project including admin panel and nice frontend. Data is sending to the frontend templates via views by importing models to views(No API used for that).
+
+This is a simple eCommerce Django project including admin panel and nice frontend. Data is sending to the frontend templates via views by importing models to views(No API used for that).
 
 ..........
 
@@ -10,4 +10,4 @@ This is a simple eCommerce project including admin panel and nice frontend. Data
 
 ## Languages / Covered topics
 + Python, Django
-+ LEARN: Bootstrap, venv — Creation of virtual environments
++ LEARN: Adding Bootstrap, venv — Creation of virtual environments
