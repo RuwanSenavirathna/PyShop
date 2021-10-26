@@ -10,4 +10,4 @@ This is a simple eCommerce Django project including admin panel and nice fronten
 
 ## Languages / Covered topics
 + Python, Django
-+ LEARN: Adding Bootstrap, venv — Creation of virtual environments
++ LEARN: HTML, Adding Bootstrap, venv — Creation of virtual environments
